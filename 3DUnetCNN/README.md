@@ -1,3 +1,5 @@
+The original code is taken from https://github.com/ellisdg/3DUnetCNN
+
 # 3D U-Net Convolution Neural Network with Keras
 ![Tumor Segmentation Example](doc/tumor_segmentation_illusatration.gif)
 ## Background

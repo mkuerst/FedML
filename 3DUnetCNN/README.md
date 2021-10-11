@@ -1,4 +1,6 @@
 The original code is taken from https://github.com/ellisdg/3DUnetCNN
+I modified the code and added new parts in order to load and augment the dataset I used for my thesis on FL for medical imaging segmentation.
+I also added new models based on the one provided by Isensee et al.
 
 # 3D U-Net Convolution Neural Network with Keras
 ![Tumor Segmentation Example](doc/tumor_segmentation_illusatration.gif)
